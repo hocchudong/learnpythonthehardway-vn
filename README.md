@@ -7,4 +7,5 @@ Learn Python the Hard Way
 
 ### Thông báo
 ### Tài liệu
+[1] http://learnpythonthehardway.org/book/
 ### Cách học cùng
