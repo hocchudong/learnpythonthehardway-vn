@@ -21,7 +21,7 @@ Ta cũng có thể dùng """ trong trường hợp này.
 
 Trường hợp ta muốn thêm dấu nháy đơn vào chuỗi thì làm ngược lại
 
-Ví dụ
+Chạy đoạn chương trình sau
 ```sh
 tabby_cat = "\tI'm tabbed in."
 persian_cat = "I'm split\non a line."
@@ -39,7 +39,7 @@ print persian_cat
 print backslash_cat
 print fat_cat
 ```
-Chạy ví dụ ta sẽ thấy 
+Trên màn hình ta thấy
 ```sh
   I'm tabbed in.
 I'm split
