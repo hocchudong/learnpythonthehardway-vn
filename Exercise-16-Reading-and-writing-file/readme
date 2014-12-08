@@ -7,6 +7,7 @@ Làm việc với file ta cần nhớ tác dụng của một số hàm sau:
 + write('stuff')- Ghi "stuff" vào file
 
 Đoạn script sau ta sẽ truyền vào tên file và ghi nội dung vào file theo từng dòng
+
 ```sh
 from sys import argv
 
@@ -43,6 +44,7 @@ print "And finally, we close it."
 target.close()
 ```
 Chạy chương trình ta được kết quả sau
+
 ```sh
 $ python ex16.py test.txt
 We're going to erase 'test.txt'.
