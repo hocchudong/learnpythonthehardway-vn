@@ -9,7 +9,7 @@ hoặc là
     print("""thanh
     ha""")
 
-Để tạo ra khoảng trắng tương đương gõ phím "Tab" ta dùng \t . Một lưu ý nữa là khi ta muốn thêm dấu nháy kép " vào trong chuỗi ta không thể nhập chuỗi vào theo cách sau
+Để tạo ra khoảng trắng tương đương gõ phím "Tab" ta dùng \t . đẻ sử dụng ký tự "\" trong string ta dùng "\\". Một lưu ý nữa là khi ta muốn thêm dấu nháy kép " vào trong chuỗi ta không thể nhập chuỗi vào theo cách sau
 
     print(" thanh ha lam tai "VDC"")
     
