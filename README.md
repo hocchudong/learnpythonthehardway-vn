@@ -1,4 +1,9 @@
-learpythonthehardway
+Learn Python the Hard Way
 ====================
 
-bai tap python
+- We are from In VIETNAM. We are study form Learn Python the Hard Way
+- Thanks 
+- 
+### Thông báo
+### Tài liệu
+### Cách học cùng
