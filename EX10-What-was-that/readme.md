@@ -2,7 +2,7 @@ Có hai cách để tạo ra chuỗi string có nhều dòng. Các thứ nhất 
 
 Ví dụ
 ```sh
-print("thanh\nha")
+print("thanh \n ha")
 ```
 hoặc là 
     
