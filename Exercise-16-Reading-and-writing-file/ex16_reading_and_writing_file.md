@@ -43,6 +43,7 @@ target.write("\n")
 print "And finally, we close it."
 target.close()
 ```
+### What You Shoud See
 Chạy chương trình ta được kết quả sau
 
 ```sh
@@ -60,3 +61,7 @@ line 3:  It was also tasty
 I'm going to write these to the file.
 And finally, we close it.
 ```
+### Study Drills
+
+### Common Student Questions
+
