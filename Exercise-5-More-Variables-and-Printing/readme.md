@@ -6,6 +6,7 @@ Các bài trước bạn đã học được cách in ra màn hình một chuỗ
 Trong bài chúng ta có thể học về cách tạo ra một chuỗi và gắn biến vào chuỗi này. Trong bài này chúng ta sẽ sử dụng một khái niệm format string.
 
 Mình có đoạn code như sau: 
+
     # -*- coding: utf-8 -*-
     my_name = 'Zed A. Shaw'
     my_age = 35 # not a lie
