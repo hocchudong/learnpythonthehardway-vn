@@ -24,6 +24,7 @@ txt_again = open(file_again)
 
 print txt_again.read()
 ```
+### What You Should See
 
 Tạo file ex15_test.py và chạy script
 ```sh
@@ -32,9 +33,14 @@ Phong nghien cuu và phat trien giai phap Cloud-Computing
 Trung tam VDC-IT
 Nguyen Phong Sac, Cau Giay, Ha Noi
 
-Type the filename again:
+Type the filenae again:
 >  ex15_test.txt
 Phong nghien cuu và phat trien giai phap Cloud-Computing
 Trung tam VDC-IT
 Nguyen Phong Sac, Cau Giay, Ha Noi
 ```
+### Study Drills
+
+### Common Student Questions
+
+
