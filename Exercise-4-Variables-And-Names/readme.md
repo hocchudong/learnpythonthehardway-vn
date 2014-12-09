@@ -1,7 +1,7 @@
 # Exercise 4: Variables And Names 
 
 ## I. Ví dụ
-Bây giờ bạn có thể in mọi thứ với print và bạn có thể làm với các phép toán. Bước tiếp theo là học về biến.
+Bây giờ bạn đã có thể in mọi thứ với print và bạn có thể làm với các phép toán. Bước tiếp theo là học về biến.
 
 Cú pháp:
 
