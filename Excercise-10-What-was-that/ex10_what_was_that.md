@@ -39,7 +39,7 @@ print persian_cat
 print backslash_cat
 print fat_cat
 ```
-Trên màn hình ta thấy
+### What You Should See
 ```sh
   I'm tabbed in.
 I'm split
@@ -52,3 +52,9 @@ I'll do a list:
         * Catnip
         * Grass
 ```
+### Escape Sequences
+
+### Study Drills
+
+###Common Student Questions
+
