@@ -16,7 +16,10 @@ Ta dùng 'import' để thêm các tính năng cho script. Điều này làm cho
 
 'argv' là một biến luận lý, là một cú pháp chuẩn, chứa các biến được truyền vào khi chạy script. Như trong ví dụ trên là các biến firt, second, third.
 
-Kết quả khi chạy chương trình:
+### Hold Up! Features Have Another Name
+
+
+### What You Should See
 ```sh
 $ python ex13.py first 2nd 3rd
 The script is called: ex13.py
@@ -37,3 +40,6 @@ Traceback (most recent call last):
     script, first, second, third = argv
 ValueError: need more than 3 values to unpack
 ```
+### Study Drills
+
+### Common Student Questions
