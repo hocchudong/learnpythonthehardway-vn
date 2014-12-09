@@ -1,6 +1,6 @@
 # Exercise 4: Variables And Names 
 
-## I. Ví dụ: 
+## I. Ví dụ
 Bây giờ bạn có thể in mọi thứ với print và bạn có thể làm với các phép toán. Bước tiếp theo là học về biến.
 
 Cú pháp:
@@ -31,6 +31,9 @@ Có đoạn code:
 ## II. Output của đoạn code trên 
 
 <img src=http://i.imgur.com/Fbz84x0.png width="60%" height="60%" border="1">
+
+Tải source code ở đây: 
+    wget https://raw.githubusercontent.com/hocchudong/learnpythonthehardway-vn/master/Exercise-4-Variables-And-Names/exercise4.py
 
 ## III. Luyện Tập 
 
