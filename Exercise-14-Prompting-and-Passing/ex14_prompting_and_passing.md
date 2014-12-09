@@ -23,6 +23,7 @@ You live in %r.  Not sure where that is.
 And you have a %r computer.  Nice.
 """ % (likes, lives, computer)
 ```
+### What You Should See
 Chạy chương trình nhập các dữ liệu cần thiết
 ```
 $ python ex14.py zed
@@ -39,3 +40,6 @@ Alright, so you said 'Yes' about liking me.
 You live in 'San Francisco'.  Not sure where that is.
 And you have a 'Tandy 1000' computer.  Nice.
 ```
+### Study Drills
+
+### Common Student Questions
