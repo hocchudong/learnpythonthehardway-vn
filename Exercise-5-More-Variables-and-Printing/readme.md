@@ -31,6 +31,7 @@ Mình có đoạn code như sau:
 <img src=http://i.imgur.com/4QdLBd4.png width="60%" height="60%" border="1">
 
 Source code:
+
     wget https://raw.githubusercontent.com/hocchudong/learnpythonthehardway-vn/master/Exercise-5-More-Variables-and-Printing/exercise5.py
 
 Giải thích code một chút:
