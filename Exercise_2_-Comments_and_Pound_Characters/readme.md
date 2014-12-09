@@ -18,6 +18,9 @@ Chương trình của bạn có thể trông khác nhau, nhưng thứ quan trọ
  <img src=http://i.imgur.com/kZQlvWo.png width="60%" height="60%" border="1">
  
  Sẽ không hiện ra những câu mà có kí tự "#" đứng ở đầu.
+ Source code có thể tải ở đây: 
+
+    wget https://raw.githubusercontent.com/hocchudong/learnpythonthehardway-vn/master/Exercise_2_-Comments_and_Pound_Characters/exercise2.py
  
  
 ## III. Luyện tập 
