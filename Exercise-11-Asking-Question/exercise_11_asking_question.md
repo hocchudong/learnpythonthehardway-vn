@@ -10,7 +10,7 @@ weight = input()
 print ("So, you're %r old, %r tall and %r heavy." % (
     age, height, weight))
 ```
-Chạy chương trình trên ta sẽ thấy
+### What You Should See
 ```sh
 >>> ================================ RESTART ================================
 >>> 
@@ -23,3 +23,7 @@ How much do you weigh?
 So, you're '34' old, '1m74' tall and '78' heavy.
 >>> 
 ```
+### Study Drills
+
+### Common Student Questions
+
