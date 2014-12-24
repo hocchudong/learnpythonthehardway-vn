@@ -67,4 +67,4 @@ Script:
 
 * readline() biết được mỗi dòng như thế nào ?
 
-    Bên trong readline() là code mà có thể quét mỗi byte của file cho đến khi tìm đến kí tự "\n", sau đó dừng lại việc đọc file trả lại chuối. File *f* chịu trách nhiệm duy trì vị trí hiện tại của file.
+    Bên trong readline() là code mà có thể quét mỗi byte của file cho đến khi tìm đến kí tự "\n", sau đó dừng lại việc đọc file trả lại chuối. File f chịu trách nhiệm duy trì vị trí hiện tại của file.
