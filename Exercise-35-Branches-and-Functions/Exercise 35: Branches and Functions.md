@@ -109,7 +109,7 @@ You greedy bastard! Good job!
 3. Viết chú thích cho các funtions mà bạn không hiểu
 4. Thêm vào game, đơn giản
 5. Trong hàm *gold_room* yêu cầu người dùng nhập vào một số. Bắt lỗi khi người dùng nhập vào không phải là số nguyên. Sử dụng hàm int() để làm việc này
-6. 
+ 
 ### Common Student Questions
 Q1 : Tại sao lại viết *while True*?
 
