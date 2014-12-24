@@ -42,9 +42,18 @@ Code:
 
 Kiểm tra nội dung của new_file.txt bằng lệnh *cat* để xem kết quả. 
 
-### Luyện tập 
+## Luyện tập 
 
-Trong phần mở file ta có sử dụng tham số "w" sẽ xóa đi toàn bộ nội dung của file nếu nó tồn tại. Nếu nó tồn tại mà ta không muốn xóa hết nội dung của file ta sẽ sử dụng tham số "a".
+* Tìm hiểu tại sao bạn phải dùng out_file.close() trong code 
+
+## Câu hỏi 
+
+* Hàm len() là gì ?
+     Nó trả về độ dài của chuỗi
+
+* Tôi nhân được lỗi sau: *Syntax:EOL while scanning string literal"
+     Bạn quên không kết thúc chuỗi với với dấu ngoặc kép.
+
 
 
 
