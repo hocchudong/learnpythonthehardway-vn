@@ -38,4 +38,3 @@ Script:
     arg1: 'Zed', arg2: 'Shaw'
     arg1: 'First!'
     I got nothin'.
-
