@@ -52,7 +52,7 @@ Kiểm tra nội dung của new_file.txt bằng lệnh *cat* để xem kết qu�
 
       Nó trả về độ dài của chuỗi
 
-* Tôi nhân được lỗi sau: *Syntax:EOL while scanning string literal"
+* Tôi nhân được lỗi sau: *Syntax:EOL while scanning string literal*
 
      Bạn quên không kết thúc chuỗi với với dấu ngoặc kép.
 
