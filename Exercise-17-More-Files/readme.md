@@ -21,7 +21,7 @@ Code:
     # Có chắc muốn tiếp tục copy hay không nếu có ấn một nút bất kì nếu không ctrl-c
     print "Ready, hit RETURN to continue, CTRL-C to abort."
     raw_input()
-    # Mở file nếu file này tồn tại sẽ xóa hết nội dung file nay, nếu chưa sẽ tạo ra file mới.
+    # Mở file nếu file này tồn tại sẽ xóa hết nội dung file nayUp, nếu chưa sẽ tạo ra file mới.
     out_file = open(to_file, 'w')
     # ghi nội dung lấy từ from_file vào to_file 
     out_file.write(indata)
