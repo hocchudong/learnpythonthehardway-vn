@@ -1,3 +1,4 @@
+
 Bạn đã được học *if-statements*, functions và list. Giờ ta sẽ ôn lại những kiến thức này. thực hiện đoạn chương trình sau và xem chương trình làm những gì:
 
 ```sh
@@ -100,6 +101,7 @@ This room is full of gold.  How much do you take?
 >  1000
 You greedy bastard! Good job!
 ```
+
 ### Study Drills
 
 1. Vẽ sơ đồ của trò chơi và làm cách nào để vượt qua trò chơi
@@ -107,6 +109,7 @@ You greedy bastard! Good job!
 3. Viết chú thích cho các funtions mà bạn không hiểu
 4. Thêm vào game, đơn giản
 5. Trong hàm *gold_room* yêu cầu người dùng nhập vào một số. Bắt lỗi khi người dùng nhập vào không phải là số nguyên. Sử dụng hàm int() để làm việc này
+6. 
 ### Common Student Questions
 Q1 : Tại sao lại viết *while True*?
 
