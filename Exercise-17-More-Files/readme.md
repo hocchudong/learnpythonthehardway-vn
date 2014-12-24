@@ -50,7 +50,7 @@ Kiểm tra nội dung của new_file.txt bằng lệnh *cat* để xem kết qu�
 
 * Hàm len() là gì ?
 
-     Nó trả về độ dài của chuỗi
+      Nó trả về độ dài của chuỗi
 
 * Tôi nhân được lỗi sau: *Syntax:EOL while scanning string literal"
 
