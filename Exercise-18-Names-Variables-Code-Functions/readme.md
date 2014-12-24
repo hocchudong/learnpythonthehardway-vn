@@ -8,7 +8,7 @@ Trong python thì sử dụng từ khóa *def* để định nghĩa ra hàm.
 
 Script: 
 
-     # Hàm này tương giống với tham số *argv*
+     # Hàm này tương giống với tham số argv
      def print_two(*args):
         arg1, arg2 = args
         print "arg1: %r, arg2: %r" % (arg1, arg2)
@@ -28,7 +28,7 @@ Script:
 
 ## Giải thích một script.
 
-* Hàm được định nghĩa trong python bằng từ khóa def. Cú pháp def tên_hàm([tham_số_1],[tham_số_2],...):
+* Hàm được định nghĩa trong python bằng từ khóa def. Cú pháp *def tên_hàm([tham_số_1],[tham_số_2],...):*
 * Khối lệnh trong hàm phải cách nề 4 dấu cách và phải bằng nhau.  
 
 ## Chạy code 
@@ -61,7 +61,7 @@ Khi bạn run một hàm, kiểm tra điều này:
 
 ## Câu hỏi 
 
-* Kí tự * trong *args để làm gì ?
+* Kí tự "*" trong *args để làm gì ?
 
     Điều này sẽ nói giữ tất các thông số đối với các hàm và sau đó đặt chúng trong args như là một list. Nó giống như argv mà bạn sử dụng, nhưng cho hàm. Nó không được sử dụng thông thường thường là cho các trường hợp đặc biêt.
    
