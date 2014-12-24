@@ -2,7 +2,7 @@
 
 ## Ví dụ 
 
-Bây giờ ta sẽ làm nhiều hơn về file chúng ta sẽ viết một đoạn code để copy nội dung từ file này đến file khác. 
+Bây giờ ta sẽ làm nhiều hơn về file, trong bài này viết một đoạn script để copy nội dung từ file này đến file khác. 
 
 Code: 
 
