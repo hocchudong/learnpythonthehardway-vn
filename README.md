@@ -1,9 +1,9 @@
 Learn Python the Hard Way
 ====================
 
-- We are from In VIETNAM. 
-- We are study form Learn Python the Hard Way: http://learnpythonthehardway.org/book/
-- Thanks 
+- We are from VIETNAM. 
+- We are learning Python Programing language with the 3rd Edition Learn Python the Hard Way at: http://learnpythonthehardway.org/book/
+- Thanks!
 
 ##Table Of Contents
 
