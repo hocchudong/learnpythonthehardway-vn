@@ -64,7 +64,7 @@ Script:
 
 ## Nghiên cứu thêm
 
-## Các câu hỏi thông thường của sinh viên
+## Câu hỏi
 
 * Tại sao bạn gọi biến là jelly_beans nhưng sau đó tên lại là beans ?
 
