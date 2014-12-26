@@ -62,4 +62,32 @@ mystuff.tangerine # same thing, it's just a variable
 
 Bạn có thể nghĩ về một module như một từ điển chuyên ngành mà có thể lưu trữ mã Python , do đó bạn có thể truy cập nó với dấu chấm. Python cũng có một cấu trúc phục vụ một mục đích tương tự được gọi là class. Một lớp học là một cách để có một nhóm các chức năng và dữ liệu đặt lên chúng, do đó bạn có thể truy cập chúng qua dấu chấm
 
+Nếu bạn tạo một class như một mystuff module. Bạn làm như sau
+```sh
+class MyStuff(object):
+
+    def __init__(self):
+        self.tangerine = "And now a thousand years between"
+
+    def apple(self):
+        print "I AM CLASSY APPLES!"
+```
+Có lẽ đến đây bạn sẽ thắc mắc sử dụng class MyStuff thay vì module mystuff với hàm 
+apple. Bạn cũng thấy khó hiểu với hàm __init__ cũng như cách khai báo biến 
+self.tangerine. Bạn cũng nên biết về object và cách object làm việc với mystuff
+
+## Object như là Import
+
+Nếu class coi như là một mini-module. Khi ta import một class và khởi tạo mới thì 
+gọi là instance. Một instance được gọi bởi hàm class như sau
+```sh
+thing = MyStuff()
+thing.apple()
+print thing.tangerine
+```
+Ta xem xét các thành phần tạo lên lớp MyStuff
+
+1.Gọi đến MyStuff() thấy rằng nó là một class mà đã xác định.
+
+
 
