@@ -16,4 +16,32 @@ Giữ suy nghĩ " get X from Y" trong tâm trí bạn và bây giờ nghĩ về 
 2. Bạn import file
 3. Bạn có thể truy cập các functions hoặc các biến trong module với dấu chấm
 
-Giả sử
+Giả sử bạn có một module tên mystuff.py và có funtion *apple*. Nội dung module
+*mystuff.py*
+```sh
+# this goes in mystuff.py
+def apple():
+    print "I AM APPLES!"
+```
+Trong chương trình của bạn, bạn có thể sử dụng module MyStuff với hàm *import* và sau đó truy cập vào funtion *apple*:
+
+```sh
+import mystuff
+mystuff.apple()
+```
+
+Bạn cũng có thể đặt thêm biến tên là *tangerine*:
+```sh
+def apple():
+    print "I AM APPLES!"
+
+# this is just a variable
+tangerine = "Living reflection of a dream"
+```
+và truy cập vào biến
+```sh
+import mystuff
+
+mystuff.apple()
+print mystuff.tangerine
+```
