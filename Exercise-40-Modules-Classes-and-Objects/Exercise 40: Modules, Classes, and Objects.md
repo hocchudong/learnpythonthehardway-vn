@@ -9,3 +9,11 @@ Bạn đã được biết dictionary được tạo ra và sử dụng để ma
 mystuff = {'apple': "I AM APPLES!"}
 print mystuff['apple']
 ```
+
+Giữ suy nghĩ " get X from Y" trong tâm trí bạn và bây giờ nghĩ về module. Ta tạm định nghĩa nó như là
+
+1. Một file Python với các hàm hoặc các biết trong đó
+2. Bạn import file
+3. Bạn có thể truy cập các functions hoặc các biến trong module với dấu chấm
+
+Giả sử
