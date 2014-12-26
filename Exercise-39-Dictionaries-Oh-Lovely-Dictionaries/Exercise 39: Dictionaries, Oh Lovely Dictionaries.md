@@ -170,4 +170,12 @@ key. Rõ hơn thì ta sử dụng dictionary khi
 
 1. Bạn có để lấy những điều dựa trên một số định danh , như tên, địa chỉ , hoặc bất cứ điều gì mà có thể là chìa khóa 
 2. Khi ta không cần quan tâm đến thứ tự. Dictionaries không có khái niệm về thứ tự, list làm việc này
-3. khi bạn muốn thêm hay loại bọ 
+3. khi bạn muốn thêm hay loại phần tử theo từ khóa
+
+## Tìm hiểu thêm
+
+1. Thực hành cùng một loại bản đồ với các thành phố và tiểu bang / vùng lãnh thổ ở nước bạn hay một số nước khác
+2. Tìm thêm tài liệu về dictionaries trong Python và cố gắng làm việc với chúng
+3. Tìm những thứ mà bạn không thể làm việc với dictionaries. 
+4. Tạo một hàm dump giống như list nhưng hàm có đầy đủ nội dung mà bạn có thể gỡ lỗi
+5. Hãy chắc chắn rằng bạn hiểu được vai trò của hàm hash trong code.
