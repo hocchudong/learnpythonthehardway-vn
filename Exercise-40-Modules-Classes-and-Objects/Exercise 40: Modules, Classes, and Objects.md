@@ -88,6 +88,14 @@ print thing.tangerine
 Ta xem xét các thành phần tạo lên lớp MyStuff
 
 1.Gọi đến MyStuff() thấy rằng nó là một class mà đã xác định.
+2. Python khởi tạo một đối tượng rỗng với tất cả các tính năng bên trong sử dụng
+*def*
+3. Hàm __init___ gọi là chức năng để khởi tạo đối tượng rỗng vừa tạo .
+4. Trong hàm __init__ có biến *seft* là đối tượng rỗng Python làm cho tôi , và tôi có thể thiết lập các biến trên nó giống như bạn làm với một mô-đun , từ điển, hoặc đối tượng khác 
+5. Trong trường hợp trên *self.tanger* là một biến
+6. Bây giờ Python có thể đưa đối tượng  này gán nó vào biến *thing*
+
+
 
 
 
