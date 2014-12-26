@@ -159,4 +159,10 @@ The city for the state 'TX' is: Does Not Exist
 
 ## Nhưng điều và Dicrionaries có thể làm
 
+Từ điển là một ví dụ về cấu trúc dữ liệu, danh sách trong dictionaries là phổ biến nhất sử dụng cấu trúc dữ liệu trong lập trình. Một dictionary sử dụng map hoặc associate những gì bạn muốn 
+lưu theo từ khóa
+
+## Khi nào sử dụng Dictionaries, khi nào dùng List
+
+Như đã đề cập ở bài 38
 
