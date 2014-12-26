@@ -164,5 +164,10 @@ lưu theo từ khóa
 
 ## Khi nào sử dụng Dictionaries, khi nào dùng List
 
-Như đã đề cập ở bài 38
+Như đã đề cập ở bài 38. List được dùng để khi ta muốn lưu trữ hoặc tổ chức những thức theo kiểu danh sách.
+Từ điển gần giống như vậy nhưng khác với list, từ điển mapping đối tượng lưu trữ với 
+key. Rõ hơn thì ta sử dụng dictionary khi
 
+1. Bạn có để lấy những điều dựa trên một số định danh , như tên, địa chỉ , hoặc bất cứ điều gì mà có thể là chìa khóa 
+2. Khi ta không cần quan tâm đến thứ tự. Dictionaries không có khái niệm về thứ tự, list làm việc này
+3. khi bạn muốn thêm hay loại bọ 
