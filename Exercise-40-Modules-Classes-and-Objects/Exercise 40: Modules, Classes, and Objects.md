@@ -135,5 +135,24 @@ happy_bday.sing_me_a_song()
 
 bulls_on_parade.sing_me_a_song()
 ```
+## Những gì bạn nhìn thấy
+```sh
+$ python ex40.py
+Happy birthday to you
+I don't want to get sued
+So I'll stop right there
+They rally around tha family
+With pockets full of shells
+```
+## Tìm hiểu thêm
 
+1. viết một vài bài hát và in ra lời bài hát
+2. Put the lyrics in a separate variable, then pass that variable to the class to use 
+3. Tìm hiểu trên mạng về lập trình hướng đối tượng
 
+## Một số câu hỏi chung
+
+Q. Sử dụng seft trong hàm __init__
+
+Answer: *seft* nghĩa la chính nó. Khi khởi tạo một instance ta sẽ truyền đối tượng này vào seft. 
+ví dụ *thing= mystuff()* và sử dụng biến *thing.cheese* thì ánh xạ với seft.cheese trong khai báo lớp
