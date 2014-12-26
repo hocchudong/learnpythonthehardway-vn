@@ -45,3 +45,17 @@ import mystuff
 mystuff.apple()
 print mystuff.tangerine
 ```
+Nhớ lại dictionary và bạn sẽ bắt đầu thấy nó sử dụng gần giống như dictionary nhưng chỉ khác nhau về cú pháp. Hãy so sánh:
+```sh
+mystuff['apple'] # get apple from dict
+mystuff.apple() # get apple from the module
+mystuff.tangerine # same thing, it's just a variable
+```
+Điều này có nghĩa chúng ta có một kiểu mẫu rất phổ biến trong Python:
+
+1. tạo ra một key = value
+2. Lấy ra nội dung bởi tên của key
+
+Ở trong dictionary, key là string và cú pháp là [key] . trong module thì key và dấu hiệu và có cú pháp là .key. Chúng gần tương tự nhau
+
+## Class giống như module
