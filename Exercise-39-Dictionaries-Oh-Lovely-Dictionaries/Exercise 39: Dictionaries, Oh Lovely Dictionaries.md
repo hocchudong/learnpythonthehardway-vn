@@ -178,4 +178,24 @@ key. Rõ hơn thì ta sử dụng dictionary khi
 2. Tìm thêm tài liệu về dictionaries trong Python và cố gắng làm việc với chúng
 3. Tìm những thứ mà bạn không thể làm việc với dictionaries. 
 4. Tạo một hàm dump giống như list nhưng hàm có đầy đủ nội dung mà bạn có thể gỡ lỗi
-5. Hãy chắc chắn rằng bạn hiểu được vai trò của hàm hash trong code.
+5. Hãy chắc chắn rằng bạn hiểu được vai trò của hàm hash trong code. Đó là hàm đặc biệt để chuyển đổi string sang integer. Bạn có thể tìm hiểu thêm vai trò của hàm *hash* ở trên mạng
+
+## Những câu hỏi chung
+
+Q: Sự khác nhau giữa một list và dictionary?
+
+Answer: Một list cho một danh sách có thứ tự. Còn từ điển hay dictionary để mapping giữa các items
+keys và các items values
+
+Q: Sử dụng từ điển như thế nào
+
+Answer: khi ta muốn lấy giá trị trong dictionary ta có thể gọi theo từ khóa
+
+Q: Sử dụng list như thế nào
+
+Answer: Sử dụng list cho bất cứ danh sách có thứ tự và gọi chúng theo chỉ số index
+
+Q: Nếu sử dụng dictionary, tôi cần sắp xếp chúng thì làm thế nào
+
+Answer: Ta có thể sử dụng collections.OrderedDict trong Python.
+
