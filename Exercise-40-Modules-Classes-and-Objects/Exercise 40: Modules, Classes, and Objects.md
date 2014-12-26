@@ -59,3 +59,7 @@ mystuff.tangerine # same thing, it's just a variable
 Ở trong dictionary, key là string và cú pháp là [key] . trong module thì key và dấu hiệu và có cú pháp là .key. Chúng gần tương tự nhau
 
 ## Class giống như module
+
+Bạn có thể nghĩ về một module như một từ điển chuyên ngành mà có thể lưu trữ mã Python , do đó bạn có thể truy cập nó với dấu chấm. Python cũng có một cấu trúc phục vụ một mục đích tương tự được gọi là class. Một lớp học là một cách để có một nhóm các chức năng và dữ liệu đặt lên chúng, do đó bạn có thể truy cập chúng qua dấu chấm
+
+
