@@ -32,7 +32,7 @@ Your first variable is: stuff
 Your second variable is: things
 Your third variable is: that
 ```
-Nêu shuw ta không chuyền đủ 3 tham số đầu vào thì chương trình sẽ báo lỗi
+Nếu ta không chuyền đủ 3 tham số đầu vào thì chương trình sẽ báo lỗi
 ````sh
 $ python ex13.py first 2nd
 Traceback (most recent call last):
