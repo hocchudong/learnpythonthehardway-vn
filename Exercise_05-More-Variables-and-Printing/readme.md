@@ -42,6 +42,11 @@ Băt đầu từ dòng 10 trở đi ta sẽ thấy trong chuỗi in ra màn hìn
 
 Bạn có thể sử dụng `%r` để thay thế các ký tự `%s` và `%d` . Hãy thử và quan sát xem điều gì xảy ra nhé.
 
+`%s` dùng để thay thế cho chuỗi.
+
+`%d` dùng để thay thế cho số
+
+`%r` bạn tự đoán nhé :)
 
 ## III. Luyện Tập 
 
