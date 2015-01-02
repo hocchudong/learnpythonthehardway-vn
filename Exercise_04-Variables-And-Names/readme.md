@@ -33,10 +33,13 @@ print "We have", passengers, "to carpool today."
 print "We need to put about", average_passengers_per_car, "in each car."
 ```
 
-## II. Output của đoạn code trên 
+## II. Kết quả của đoạn mã nguồn trên 
 
 <img src=http://i.imgur.com/Fbz84x0.png width="60%" height="60%" border="1">
 
 ## III. Luyện Tập 
+- Sử dụng 4.0 cho biến `space_in_a_car` thay cho 4. Điều gì sẽ xảy ra nếu ta để là 4. Hãy thử xem.
+- 4.0 là số có kiểu động.
 
 ## IV. Câu hỏi 
+- Sự khác nhay giữa dấu `=` và `==` là gì ?
