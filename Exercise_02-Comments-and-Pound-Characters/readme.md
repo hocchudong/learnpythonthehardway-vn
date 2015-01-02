@@ -4,12 +4,22 @@
 
 Các chú thích  là vô cùng quan trọng trong các ứng dụng của bạnl. Chúng được sử dụng để nói với bạn nhưng thứ ji được , và được sử dụng để disable các phần trong chương trình của bạn nếu bạn muốn xóa bỏ chúng tạm thời. Dưới đây là cách sử dụng chú thích trong python: 
 
-    # A comment, this is so you can read your program later.
-    # Anything after the # is ignored by python.
-    print "I could have code like this." # and the comment after is ignored
-    # You can also use a comment to "disable" or comment out a piece of code:
-    # print "This won't run."
-    print "This will run."
+```sh
+#!/bin/python2
+# -*- coding: utf-8 -*-
+
+# ex2: Comments and Pound Characters
+
+# A comment, this is so you can read you program later.
+# Anything after the # is ignored by python.
+
+print "I could have code like this."  # and the comment after is ignored
+
+# You can also use a comment to "disable" or comment out a piece of code:
+# print "This won't run."
+
+print "This will run."
+```
 
 Chương trình của bạn có thể trông khác nhau, nhưng thứ quan trọng là đoạn văn bản mà gõ vào file trong trình soạn thảo. Trong thực tế, tôi có thể làm việc bất cứ trình soạn thảo nào và các kết quả sẽ là như nhau.
 
