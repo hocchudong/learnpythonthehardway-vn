@@ -42,4 +42,13 @@ ValueError: need more than 3 values to unpack
 ```
 ### Study Drills
 
-### Common Student Questions
+Bạn có thể kết hợp với `raw_input` để truyền đối số do bạn nhập vào. Bạn có thể chạy chương trình mở rộng có tên là `ex13_raw_input.py` để xem kết quả. Cách thực hiện chương trình này như sau
+
+```sh
+python ex13_raw_input.py To Thanh
+```
+
+Lưu ý: Đối số `To` và `Thanh` được truyền vào ngay khi thực thi chương trình. Sau đó bạn sẽ nhập thêm một giá trị tiếp theo ở màn hình nhắc lệnh:
+
+
+### Câu hỏi chung
