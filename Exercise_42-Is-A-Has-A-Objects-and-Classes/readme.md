@@ -12,3 +12,98 @@ hoặc ở vùng nước ngọt.
 
 ## Code hướng đối tượng
 
+```sh
+## Animal is-a object (yes, sort of confusing) look at the extra credit
+class Animal(object):
+    pass
+
+## ??
+class Dog(Animal):
+
+    def __init__(self, name):
+        ## ??
+        self.name = name
+
+## ??
+class Cat(Animal):
+
+    def __init__(self, name):
+        ## ??
+        self.name = name
+
+## ??
+class Person(object):
+
+    def __init__(self, name):
+        ## ??
+        self.name = name
+
+        ## Person has-a pet of some kind
+        self.pet = None
+
+## ??
+class Employee(Person):
+
+    def __init__(self, name, salary):
+        ## ?? hmm what is this strange magic?
+        super(Employee, self).__init__(name)
+        ## ??
+        self.salary = salary
+
+## ??
+class Fish(object):
+    pass
+
+## ??
+class Salmon(Fish):
+    pass
+
+## ??
+class Halibut(Fish):
+    pass
+
+
+## rover is-a Dog
+rover = Dog("Rover")
+
+## ??
+satan = Cat("Satan")
+
+## ??
+mary = Person("Mary")
+
+## ??
+mary.pet = satan
+
+## ??
+frank = Employee("Frank", 120000)
+
+## ??
+frank.pet = rover
+
+## ??
+flipper = Fish()
+
+## ??
+crouse = Salmon()
+
+## ??
+harry = Halibut()
+```
+
+## Tìm hiểu thêm
+
+1. Nghiên cứu tại sao Python thêm lớp đối tượng này , và điều đó có nghĩa là gì.
+2. Có thể sử dụng một lớp như một object
+3. Thêm vào các lớp animal , fish, và people trong bài tập này với cac hàm
+4. Tạo thêm nhiều lớp mới với các mối liên quan đến nhau
+
+## Giải đáp
+
+Q: self.pet = none
+
+Answer: Câu lệnh trên thiết lập thuộc tính self có giá trị rỗng
+
+Q:Lệnh super(Employee, self).__init__(name) để làm gì ?
+
+Answer: Lệnh trên dùng để gọi lớp cha của lớp Employee
